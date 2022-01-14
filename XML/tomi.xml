@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE contact [
+<!ELEMENT contact (myname,phone,address)>
+<!ELEMENT myname (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+]>
+<contact>
+<myname>Tomisin</myname>
+<phone>09058742317</phone>
+<address>emerald</address>
+</contact>

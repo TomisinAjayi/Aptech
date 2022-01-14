@@ -1,0 +1,9 @@
+Time: 9:00am	Destination: Anthony	seat.no: 5
+Time: 9:00am	Destination: Anthony	seat.no: 2
+Time: 9:00am	Destination: Anthony	seat.no: 3
+Time: 9:00am	Destination: Anthony	seat.no: 5
+Time: 5:00pm	Destination: Anthony	seat.no: 4
+Time: 1:00pm	Destination: Anthony	seat.no: 3
+Time: 1:00pm	Destination: Anthony	seat.no: 3
+Time: 3:00pm	Destination: Ketu	seat.no: 1
+Time: 1:00pm	Destination: Anthony	seat.no: 1

@@ -1,0 +1,35 @@
+contact {
+	display: flex;
+	flex-direction: column;
+}
+/*<?xml-stylesheet type="text/css" href="main.css"?> */
+phone{
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 2rem;
+}
+phone:before{
+	content: "Phone: ";
+	color: white;
+}
+address{
+	background-color: lavender;
+	color: black;
+	text-align: center;
+	font-size: 2rem;
+}
+address:before{
+	content: "Address: ";
+	color: black;
+}
+email{
+	background-color: magenta;
+	color: white;
+	text-align: center;
+	font-size: 2rem;
+}
+email:before{
+	content: "Email: ";
+	color: white;
+}

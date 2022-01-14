@@ -1,0 +1,28 @@
+{
+	"$schema": "https://json-schema.org/draft-04/schema",
+	"title": "Accessories",
+	"description": "This is a collection of accessories",
+	"type": "object",
+	"properties": {
+		"necklace": {
+			"description": "This is worn on the neck",
+			"type": "string"
+		},
+		"rings": {
+			"description": "This is worn on the fingers or toes, sometimes the nose",
+			"type": "string"
+		},
+		"braclets": {
+			"description": "This is worn on the wrist",
+			"type": "string"
+		},
+		"anklets": {
+			"description": "This is worn on the ankle",
+			"type": "boolean"
+		},
+		"totalAccessories": {
+			"description": "Total number of accessories owned",
+			"type": "integer"
+		}
+	}
+}

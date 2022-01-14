@@ -1,0 +1,36 @@
+{
+	"age":20,
+	"name": "tomi",
+	"truthy": true,
+	"height": null,
+	"eating": " ",
+	"clothes": ["pink", "gray", "black", "white", false, 10],
+	"human": {
+		"eyes": 2,
+		"nose": 1,
+		"legs": 2,
+		"talks": true
+	},
+	"$schema": "https://json-schema.org/draft-04/schema",
+	"title": "products",
+	"description": "this is 763's schema",
+	"type": object,
+	"properties": {
+		"eyes": {
+			"description": "This is the number of eyes",
+			"type": "integer"
+		},
+		"nose": {
+			"description": "this is the number of nose",
+			"type": "integer"
+		},
+		"legs": {
+			"description": "number of legs",
+			"type": "integer"
+		},
+		"talking": {
+			"description": "who is talking",
+			"type": "boolean"
+		}
+	}
+}

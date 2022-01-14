@@ -1,0 +1,53 @@
+{
+	"$schema": "https://json-schema.org/draft-04/schema",
+	"title": "Person",
+	"description": "Summary of uche",
+	"type": "object",
+	"properties": {
+		"age": {
+			"description": "how old he is",
+			"type": "integer"
+		},
+		"name": {
+			"description": "what is his name",
+			"type": "string"
+		},
+		"truthy": {
+			"description": "is he honest",
+			"type": "boolean"
+		},
+		"height": {
+			"description": "how tall he is",
+			"type": "null"
+		},
+		"eating": {
+			"description": "does he eat",
+			"type": "string"
+		},
+		"clothes": {
+			"description": "favourite color of clothes",
+			"type": "array",
+			"items": {
+				"type": "string"
+			}
+		},
+		"human": {
+			"description": "his features",
+			"type": "object",
+			"properties": {
+				"eyes": {
+					"type": "integer"
+				},
+				"nose": {
+					"type": "integer"
+				},
+				"legs": {
+					"type": "integer"
+				},
+				"talking": {
+					"type": "boolean"
+				}
+			}
+		}
+	}
+}

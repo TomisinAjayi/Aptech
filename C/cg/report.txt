@@ -1,0 +1,20 @@
+Student's Matric-Number: 180310542
+Course Code||Grade	   ||Units
+sta		a		3
+mic		a		4
+CGPA = 7.00
+
+Student's Matric-Number: 180234543
+Course Code||Grade	   ||Units
+btn211		a		3
+mic313		b		3
+zly314		a		3
+sta312		a		3
+CGPA = 12.00
+
+Student's Matric-Number: 170542765
+Course Code||Grade	   ||Units
+phy		a		4
+fed		b		3
+eeg		b		4
+CGPA = 10.00

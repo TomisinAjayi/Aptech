@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.creativemanagement.com.com" xmlns="http://www.creativemanagement.com" elementFormDefault="qualified">
+	<xs:element name="EventManager">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Event" orderid="A556">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Customer" type="xs:string"/>
+							<xs:element name="Venue" type="xs:string"/>
+							<xs:element name="Date" type="xs:date"/>
+							<xs:element name="NoOfGuests" type="xs:integer"/>
+							<xs:element name="ContactNumber" type="xs:long"/>
+							<xs:element name="Address" type="xs:string"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Service" category="AnnualConference">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TechDelivery" type="xs:string"/>
+							<xs:element name="Entertainment" type="xs:string"/>
+							<xs:element name="VenueBooking" type="xs:string"/>
+							<xs:element name="Themeing" type="xs:string"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,6 @@
+Sun Apr 11 16:51:35 2021
+Customer's name: Tomi
+1. Item: book =  N100
+2. Item: pencil =  N50
+3. Item: blade =  N30
+Total: 180

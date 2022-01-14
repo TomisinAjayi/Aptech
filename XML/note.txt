@@ -1,0 +1,10 @@
+to create file & move to file - vi "name of file" 
+
+
+write bash - #!/bin/bash
+to write - press i
+after writing script - press esc
+to quit - :wq!
+to execute - chmod a+x "name of file"
+to execute - ./"name of file"
+to view what's in the file - cat "name of file"

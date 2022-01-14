@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cities>
+	<country>
+		<name>Lagos</name>
+		<name>Abuja</name>
+	</country>
+	<country>
+		<name>Capetown</name>
+		<name>Johannesburg</name>
+	</country>
+	<country>
+		<name>Accra</name>
+		<name>Kumasi</name>
+	</country>
+	<country>
+		<name>Accra</name>
+		<name>Kumasi</name>
+	</country>
+	<country>
+		<name>Accra</name>
+		<name>Kumasi</name>
+	</country>
+</cities>

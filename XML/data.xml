@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tomi [
+	<!ELEMENT tomi (name,age,hobby)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT age (#PCDATA)>
+	<!ELEMENT hobby (#PCDATA)>
+
+]>
+
+<tomi>
+	<name type="person">Tomisin</name>
+	<age>20</age>
+	<hobby>Coding</hobby>
+	
+</tomi>

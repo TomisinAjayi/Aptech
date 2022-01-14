@@ -1,0 +1,11 @@
+tomi {
+	text-align: center;
+	font-size: 2rem;
+	display: flex;
+	flex-direction: column;
+	background-color: purple;
+}
+age {
+	background-color: white;
+}
+

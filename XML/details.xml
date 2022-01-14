@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combine xmlns:x="puf" xmlns:y="beans">
+	<x:contact>
+		<x:name>Tomi</x:name>
+		<x:phone>09058742317</x:phone>
+		<x:address>Emerald Suites</x:address>
+	</x:contact>
+	<y:contact>
+		<y:phone>09058742317</y:phone>
+		<y:address>Emerald Suites</y:address>
+		<y:email>Tomi</y:email>
+	</y:contact>
+</combine>
